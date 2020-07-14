@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_solution_definition">
+    <ml_solution_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability>nlu_trainer</capability>
+        <current_solution_version>1</current_solution_version>
+        <dataset_language/>
+        <fields_to_compare/>
+        <input_fields/>
+        <input_filter/>
+        <lookup_window_size>30</lookup_window_size>
+        <min_records>2</min_records>
+        <output_field/>
+        <prediction_input_fields/>
+        <segmentation_field/>
+        <similarity_window_filter/>
+        <solution_label>global_9d08209c1b8e8810206f43b4cc4bcb90_ITSM_NLU_for_Virtual_Agent</solution_label>
+        <solution_name>ml_global_9d08209c1b8e8810206f43b4cc4bcb90_itsm_nlu_for_virtual_agent</solution_name>
+        <sys_class_name>ml_solution_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-26 19:01:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>fc9de0141bce8810206f43b4cc4bcbb1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>global_9d08209c1b8e8810206f43b4cc4bcb90_ITSM_NLU_for_Virtual_Agent</sys_name>
+        <sys_package display_value="ITSM two" source="x_snc_itsm_two">9d08209c1b8e8810206f43b4cc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM two">9d08209c1b8e8810206f43b4cc4bcb90</sys_scope>
+        <sys_update_name>ml_solution_definition_fc9de0141bce8810206f43b4cc4bcbb1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-26 19:01:38</sys_updated_on>
+        <table/>
+        <table_to_compare/>
+        <threshold>50</threshold>
+        <trainer display_value="NLU Template">3dd73663774233005d7b3882a9106128</trainer>
+        <training_frequency>every_30_days</training_frequency>
+        <update_frequency>do_not_update</update_frequency>
+        <use_segmentation>false</use_segmentation>
+        <word_vector_corpus/>
+    </ml_solution_definition>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_model_sys_entity">
+    <m2m_sys_nlu_model_sys_entity action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <model display_value="ITSM NLU for Virtual Agent">058c24d01bce8810206f43b4cc4bcbee</model>
+        <sys_class_name>m2m_sys_nlu_model_sys_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-26 18:57:00</sys_created_on>
+        <sys_entity display_value="LOCATION">6bff25c8777723005d7b3882a91061ae</sys_entity>
+        <sys_id>098c24d01bce8810206f43b4cc4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITSM NLU for Virtual Agent.LOCATION</sys_name>
+        <sys_package display_value="ITSM two" source="x_snc_itsm_two">9d08209c1b8e8810206f43b4cc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM two">9d08209c1b8e8810206f43b4cc4bcb90</sys_scope>
+        <sys_update_name>m2m_sys_nlu_model_sys_entity_098c24d01bce8810206f43b4cc4bcbf7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-26 18:57:00</sys_updated_on>
+    </m2m_sys_nlu_model_sys_entity>
+</record_update>

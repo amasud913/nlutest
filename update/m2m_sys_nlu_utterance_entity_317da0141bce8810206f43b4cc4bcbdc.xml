@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_nlu_utterance_entity">
+    <m2m_sys_nlu_utterance_entity action="INSERT_OR_UPDATE">
+        <annotation>[{"indexes":[3],"annotatedString":"can i get {{phrase=\"immediate\"}} help from IT","cat":"1 - High"}]</annotation>
+        <entity display_value="urgency">397d6cd01bce8810206f43b4cc4bcb6a</entity>
+        <sys_class_name>m2m_sys_nlu_utterance_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-26 19:01:09</sys_created_on>
+        <sys_id>317da0141bce8810206f43b4cc4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>urgency.can i get immediate help from IT</sys_name>
+        <sys_package display_value="ITSM two" source="x_snc_itsm_two">9d08209c1b8e8810206f43b4cc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM two">9d08209c1b8e8810206f43b4cc4bcb90</sys_scope>
+        <sys_update_name>m2m_sys_nlu_utterance_entity_317da0141bce8810206f43b4cc4bcbdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-26 19:01:09</sys_updated_on>
+        <utterance display_value="can i get immediate help from IT">f57da0141bce8810206f43b4cc4bcbda</utterance>
+    </m2m_sys_nlu_utterance_entity>
+</record_update>

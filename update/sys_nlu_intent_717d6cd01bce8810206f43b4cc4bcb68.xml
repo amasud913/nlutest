@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_intent">
+    <sys_nlu_intent action="INSERT_OR_UPDATE">
+        <description/>
+        <model display_value="ITSM NLU for Virtual Agent">058c24d01bce8810206f43b4cc4bcbee</model>
+        <name>OpenITTicket</name>
+        <sys_class_name>sys_nlu_intent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-26 19:01:09</sys_created_on>
+        <sys_id>717d6cd01bce8810206f43b4cc4bcb68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OpenITTicket</sys_name>
+        <sys_package display_value="ITSM two" source="x_snc_itsm_two">9d08209c1b8e8810206f43b4cc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM two">9d08209c1b8e8810206f43b4cc4bcb90</sys_scope>
+        <sys_update_name>sys_nlu_intent_717d6cd01bce8810206f43b4cc4bcb68</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-26 19:01:09</sys_updated_on>
+    </sys_nlu_intent>
+</record_update>
