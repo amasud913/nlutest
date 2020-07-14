@@ -4,7 +4,7 @@
         <description>Copy of the ITSM out of the box NLU models</description>
         <display_name>ITSM NLU for Virtual Agent</display_name>
         <name>global_9d08209c1b8e8810206f43b4cc4bcb90_ITSM_NLU_for_Virtual_Agent</name>
-        <state/>
+        <state>Draft</state>
         <sys_class_name>sys_nlu_model</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-12-26 18:57:00</sys_created_on>

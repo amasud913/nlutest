@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_utterance">
+    <sys_nlu_utterance action="INSERT_OR_UPDATE">
+        <intent display_value="OpenITTicket">717d6cd01bce8810206f43b4cc4bcb68</intent>
+        <sys_class_name>sys_nlu_utterance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 22:23:01</sys_created_on>
+        <sys_id>da332409db02dc10d816c16c1396192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>another open ticket please</sys_name>
+        <sys_package display_value="ITSM two" source="x_snc_itsm_two">9d08209c1b8e8810206f43b4cc4bcb90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM two">9d08209c1b8e8810206f43b4cc4bcb90</sys_scope>
+        <sys_update_name>sys_nlu_utterance_da332409db02dc10d816c16c1396192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 22:23:01</sys_updated_on>
+        <utterance>another open ticket please</utterance>
+    </sys_nlu_utterance>
+</record_update>

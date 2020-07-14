@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_nlu_entity">
     <sys_nlu_entity action="INSERT_OR_UPDATE">
+        <base_entity/>
         <field_name>urgency</field_name>
         <model/>
         <name>urgency</name>
